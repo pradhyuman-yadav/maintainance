@@ -18,15 +18,9 @@ export default function MaintenancePage() {
           <CardTitle className="mt-4 text-2xl font-bold tracking-tight">
             Platform Update in Progress
           </CardTitle>
-          <CardDescription className="mt-2 text-base">
-            We apologize for the inconvenience.
-          </CardDescription>
         </CardHeader>
         <CardContent>
           <div className="mt-4 text-center text-sm text-muted-foreground">
-            <p>
-              Our platform is currently undergoing scheduled maintenance and updates.
-            </p>
             <p className="mt-2">
               Due to a lack of resources and free time, this update might take
               some time. We appreciate your patience and understanding.
